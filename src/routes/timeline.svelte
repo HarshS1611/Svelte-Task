@@ -60,7 +60,7 @@
 							</Button>
 						</div>
 					</div>
-					<div class="flex w-full items-start justify-end">
+					<div class="flex w-60 items-start justify-end">
 						<div class=" flex flex-col items-start justify-end">
 							<Avatar.Root class="right-0 ml-40 w-6 h-6 xl:w-10 xl:h-10">
 								<Avatar.Image class="flex justify-end" src={Logo} alt="@shadcn" />
